@@ -1,9 +1,3 @@
-# verify-the-pitfalls
-
-mainly with ECDSA
-·Leaking k leads to leaking of d
-·Reusing k leads to leaking of d
-···
 
 # 项目说明
 
