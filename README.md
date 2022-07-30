@@ -182,7 +182,7 @@ def same_dk_withECDSA(pri_key,m):
         return 0
 ```
 
-### B.运行指导(跑不起来的不算成功)
+### B.运行指导
 
 ​	在main主函数中取消注释需要运行查看的pitfall代码即可：
 
@@ -192,7 +192,7 @@ def same_dk_withECDSA(pri_key,m):
 
 
 
-### C.代码运行全过程截图(无截图无说明的代码不给分)
+### C.代码运行全过程截图
 
 依次运行结果如下：
 
