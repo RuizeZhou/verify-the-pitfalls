@@ -72,7 +72,8 @@ Project: Find a key with hash value “sdu_cst_20220610” under a message compo
 
 有问题的项目及问题：\
 
-**4.本项目具体内容：**具体内容如下
+
+**4.本项目具体内容：** 具体内容如下
 
 # verify-the-pitfalls
 
